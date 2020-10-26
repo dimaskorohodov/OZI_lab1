@@ -1,0 +1,5 @@
+ADMIN
+old
+TESTUSER
+pass
+User_added_by_admin
